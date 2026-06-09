@@ -1,0 +1,163 @@
+[
+  {
+    "company": "Afrikana",
+    "slug": "case-studies-afrikana-star-city-birmingham",
+    "website": "https://www.afrikanakitchen.com/",
+    "ok": true,
+    "file": "case-studies-afrikana-star-city-birmingham.png"
+  },
+  {
+    "company": "Al Murad Tiles",
+    "slug": "al-murad-tiles",
+    "website": "https://www.al-murad.co.uk/",
+    "ok": true,
+    "file": "al-murad-tiles.png"
+  },
+  {
+    "company": "BOO Star City",
+    "slug": "boo-star-city",
+    "website": "https://boo-burger.com/",
+    "ok": true,
+    "file": "boo-star-city.png"
+  },
+  {
+    "company": "Burger & Wok",
+    "slug": "case-studies-burger-and-wok-birmingham",
+    "website": "https://burgerandwok.co.uk/",
+    "ok": true,
+    "file": "case-studies-burger-and-wok-birmingham.png"
+  },
+  {
+    "company": "Cake inn",
+    "slug": "cake-inn",
+    "website": "https://cakeinn.com/",
+    "ok": true,
+    "file": "cake-inn.png"
+  },
+  {
+    "company": "D's Kitchen",
+    "slug": "case-studies-ds-kitchen-birmingham",
+    "website": "https://www.ubereats.com/gb/store/ds-kitchen-birmingham/ct098tuqWHa6Vh-VAEMk0g",
+    "ok": true,
+    "file": "case-studies-ds-kitchen-birmingham.png"
+  },
+  {
+    "company": "Dairy King",
+    "slug": "case-studies-dairy-king-birmingham",
+    "website": "https://dairyking.co.uk/",
+    "ok": true,
+    "file": "case-studies-dairy-king-birmingham.png"
+  },
+  {
+    "company": "Diwan Kitchen",
+    "slug": "diwan-kitchen-hollaway-london",
+    "website": "https://www.diwankitchen.com/",
+    "ok": true,
+    "file": "diwan-kitchen-hollaway-london.png"
+  },
+  {
+    "company": "Dresden Doner",
+    "slug": "dresden-doner-birmingham",
+    "website": "https://www.gdk.com/gdk-locations/uk/birmingham-new-street/69-new-st",
+    "ok": true,
+    "file": "dresden-doner-birmingham.png"
+  },
+  {
+    "company": "Heavenly Beds",
+    "slug": "heavenly-beds",
+    "website": "https://www.heavenlybedsoldbury.co.uk/",
+    "ok": true,
+    "file": "heavenly-beds.png"
+  },
+  {
+    "company": "JÜCI",
+    "slug": "case-studies-juci-hall-green-birmingham",
+    "website": "https://juci.co/",
+    "ok": true,
+    "file": "case-studies-juci-hall-green-birmingham.png"
+  },
+  {
+    "company": "Lys Cafe",
+    "slug": "lys-cafe",
+    "website": "https://www.centauri.org.uk/case-studies/lys-cafe",
+    "ok": true,
+    "file": "lys-cafe.png"
+  },
+  {
+    "company": "Nexus",
+    "slug": "nexus-cafe-digbeth",
+    "website": "https://www.independent-birmingham.co.uk/profile/nexus-cafe/",
+    "ok": true,
+    "file": "nexus-cafe-digbeth.png"
+  },
+  {
+    "company": "Phat Spuds",
+    "slug": "phat-spuds",
+    "website": "https://www.phatspuds.uk/",
+    "ok": true,
+    "file": "phat-spuds.png"
+  },
+  {
+    "company": "Rizq Pure",
+    "slug": "rizq-pure",
+    "website": "https://www.centauri.org.uk/case-studies/rizq-pure",
+    "ok": true,
+    "file": "rizq-pure.png"
+  },
+  {
+    "company": "Sani's Chicken",
+    "slug": "sanis-chicken-birmingham",
+    "website": "https://sanischicken.co.uk/",
+    "ok": true,
+    "file": "sanis-chicken-birmingham.png"
+  },
+  {
+    "company": "Somalinimo UK",
+    "slug": "case-studies-somalinimo-uk-birmingham",
+    "website": "https://www.somalinimouk.com/",
+    "ok": true,
+    "file": "case-studies-somalinimo-uk-birmingham.png"
+  },
+  {
+    "company": "The Royal Palm",
+    "slug": "the-royal-palm",
+    "website": "https://theroyalpalm.uk/",
+    "ok": true,
+    "file": "the-royal-palm.png"
+  },
+  {
+    "company": "The Shawarma Shop",
+    "slug": "the-shawarma-shop",
+    "website": "https://www.ubereats.com/gb/store/the-shawarma-shop/QucaEIVhRHWwZs9fXXYxzg",
+    "ok": true,
+    "file": "the-shawarma-shop.png"
+  },
+  {
+    "company": "Umrah Supermarket",
+    "slug": "umrah-supermarket-uk",
+    "website": "https://www.umrahsupermarket.co.uk/",
+    "ok": false,
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.umrahsupermarket.co.uk/\nCall log:\n  - navigating to \"https://www.umrahsupermarket.co.uk/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "company": "Vivace Cafe & Pizzeria",
+    "slug": "vivace-cafe-pizzeria-birmingham",
+    "website": "https://vivacecafeandpizzeria.co.uk/",
+    "ok": true,
+    "file": "vivace-cafe-pizzeria-birmingham.png"
+  },
+  {
+    "company": "Wall Street Burger",
+    "slug": "wall-street-burger",
+    "website": "https://wallstreetburgers.co.uk/",
+    "ok": true,
+    "file": "wall-street-burger.png"
+  },
+  {
+    "company": "Zamora housing",
+    "slug": "zamora-housing",
+    "website": "https://www.centauri.org.uk/case-studies/zamora-housing",
+    "ok": true,
+    "file": "zamora-housing.png"
+  }
+]
